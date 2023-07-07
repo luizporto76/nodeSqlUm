@@ -3,10 +3,10 @@ const Usuario = db.Usuario;
 
 function criarUsuario(){
     Usuario.create({
-        NomeUsuario: 'THEO',
+        NomeUsuario: 'Alan',
         Clube: 'MAXACALIS',
-        Telefone: '31986683420',
-        Senha: 'CAIU2019',
+        Telefone: '11111111',
+        Senha: '2222222',
     })
 }
 criarUsuario();

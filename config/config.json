@@ -4,7 +4,8 @@
     "password": "C@iu2019",
     "database": "maxaca92_agendamento",
     "host": "sh-pro110.hostgator.com.br",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "logging": false
   },
   "test": {
     "username": "root",
